@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi there, my name is Julissa! 
+I'm a senior undergrad at Cal Poly San Luis Obispo studying computer science looking for an entrylevel job.
+
+I'm currently a board member in my schools SHPE chapter, where I serve as the Webmaster. As a Webmaster, I have designed and built an entirley new website for the club chapter. I did this using figma for designing and React and Typescript for actually making the website! The website is always being updated and I'm continuing to make improvements on it. You can check out the website here: <br/>
+
+[Cal Poly SHPE](https://www.calpolyshpe.org/)
+
+A part from the frontend experience that I have, I also have fullstack experience! During the summer I had an apprentaceship with Snap Inc. where I was able to build a new feature for the app in a team od 2 designers, 3 marketers, and 1 other engineer. The new feature was aimed to help alleviate food insecurity amongst college students where my team used the Google map API, React Native, and Supabase to create a prototype of the new feature we had in mind. We called this feature Hive! This can be found in my Snap Hive reprository:  <br/>
+
+[Hive](https://github.com/Julissahhh/snap-hive)
 
 <!--
 **Julissahhh/Julissahhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
